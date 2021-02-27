@@ -14,6 +14,9 @@ System.out.println("my third");
 System.out.println("fourth");
 
 	}
+	private void fifth() {
+System.out.println("fifth");
+	}
 public static void main(String[] args) {
 	feb27 c = new feb27();
 	c.first();
