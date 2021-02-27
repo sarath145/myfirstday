@@ -10,6 +10,10 @@ System.out.println("my fist");
 	private void third() {
 System.out.println("my third");
 	}
+	private void fourth() {
+System.out.println("fourth");
+
+	}
 public static void main(String[] args) {
 	feb27 c = new feb27();
 	c.first();
